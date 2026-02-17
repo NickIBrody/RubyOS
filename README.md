@@ -1,3 +1,6 @@
+Ruby is a trademark of its respective owners. This project is not affiliated with the Ruby language maintainers.
+
+
 # RubyOS — Hello Ruby (Serial Boot Demo)
 
 RubyOS is a tiny experimental bootable OS demo that prints **"Hello Ruby"** using BIOS serial output (COM1).
